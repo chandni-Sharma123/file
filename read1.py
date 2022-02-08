@@ -1,0 +1,5 @@
+# f=open("exercise.txt",mode="r")
+# data=f.readlines()
+# # print(len(data))
+# print(data)
+# f.close()
